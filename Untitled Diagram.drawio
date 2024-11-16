@@ -11,25 +11,25 @@
           <mxGeometry x="240" y="137" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pRwNK8aQ5LHuxkJddkiv-3" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="137" width="60" height="80" as="geometry" />
+          <mxGeometry x="211" y="-171" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pRwNK8aQ5LHuxkJddkiv-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="240" y="137" width="80" height="80" as="geometry" />
+          <mxGeometry x="334" y="179" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pRwNK8aQ5LHuxkJddkiv-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="147" width="120" height="60" as="geometry" />
+          <mxGeometry x="298" y="38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pRwNK8aQ5LHuxkJddkiv-6" value="" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="127" width="120" height="100" as="geometry" />
+          <mxGeometry x="240" y="348" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pRwNK8aQ5LHuxkJddkiv-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="147" width="30" height="60" as="geometry" />
+          <mxGeometry x="203" y="119" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pRwNK8aQ5LHuxkJddkiv-8" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="147" width="120" height="60" as="geometry" />
+          <mxGeometry x="203" y="19" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pRwNK8aQ5LHuxkJddkiv-9" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="147" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="275" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
